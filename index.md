@@ -92,7 +92,7 @@
     </table>
 
     <hr />
-    <a href="/hobbies.html" target="_blank">My Hobbies</a>
+    <a href="https://github.com/ShivamAgg051/cv/blob/main/hobbies.html" target="_blank">My Hobbies</a>
     <br />
     <a href="/Contact_me.html" target="_blank">Contact me</a>
   </body>
